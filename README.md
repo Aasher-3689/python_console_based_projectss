@@ -1,5 +1,8 @@
 NOTE
 -
-Module _"Colorama"_ is used in some python files.
+Module `Colorama`is used in some python files.
 
-For Intallation: *pip install colorama*
+For Intallation: 
+```
+pip install colorama
+```
